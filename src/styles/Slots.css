@@ -1,0 +1,30 @@
+.slot-content-container {
+  background-color: red;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 500px;
+  height: 500px;
+}
+
+.slot-machine {
+  background-color: green;
+  height: 75%;
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slot {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  height: 75%;
+  width: 75%;
+  margin: 5px;
+}
